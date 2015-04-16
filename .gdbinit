@@ -3,9 +3,9 @@ source ~/projects/forks/peda/peda.py
 peda set option pagesize 0
 
 # LibHeap
-python import sys, os
-python sys.path.append(os.path.expanduser('~/projects/forks/libheap/'))
-python from libheap import *
+# python import sys, os
+# python sys.path.append(os.path.expanduser('~/projects/forks/libheap/'))
+# python from libheap import *
 
 # Settings
 set disassembly-flavor intel
