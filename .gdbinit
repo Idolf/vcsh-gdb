@@ -1,5 +1,5 @@
 # PEDA
-source ~/projects/forks/peda/peda.py
+source ~/git/peda/peda.py
 peda set option pagesize 0
 
 # LibHeap
