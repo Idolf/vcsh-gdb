@@ -1,6 +1,6 @@
 # PEDA
-source ~/git/peda/peda.py
-peda set option pagesize 0
+# source ~/git/peda/peda.py
+# peda set option pagesize 0
 
 # LibHeap
 # python import sys, os
