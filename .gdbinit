@@ -20,3 +20,4 @@ set history expansion
 
 # Output format
 set output-radix 0x10
+source /home/idolf/git/pwndbg/gdbinit.py
