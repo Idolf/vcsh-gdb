@@ -19,5 +19,6 @@ set history save
 set history expansion
 
 # Output format
-set output-radix 0x10
 source /home/idolf/git/pwndbg/gdbinit.py
+set input-radix 0d10
+set output-radix 0x10
