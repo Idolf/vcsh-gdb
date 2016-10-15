@@ -22,3 +22,4 @@ set history expansion
 source /home/idolf/git/pwndbg/gdbinit.py
 set input-radix 0d10
 set output-radix 0x10
+set breakpoint pending on
